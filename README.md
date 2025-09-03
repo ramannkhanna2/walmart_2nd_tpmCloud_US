@@ -1,7 +1,12 @@
 # walmart_2nd_tpmCloud_US
 
 ```
+Queues :
 
+gcp : pub-sub
+aws : sqs
+azure: event grid
+apache : KAFKA
 
 Servers
 AWS – EC2
